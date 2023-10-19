@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(96, 81, 133);
+    margin: 0 auto;
+    border-color: rgb(255, 0, 0);
+    border-style: solid;
+    color: white;
+}
+
+h1{
+    border-color: red;
+    border-style: solid;
+    color: white;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+ul{
+    border-color: red;
+    border-style: solid;
+    color: white;
+    text-align: center;
+    margin: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li{
+    color: white;
+    margin: 8px 24px;
+    border-color: red;
+    border-style: solid;
+    background-color: aliceblue;
+    padding: 24px;
+}
+
+.a{
+    color: white;
+}
